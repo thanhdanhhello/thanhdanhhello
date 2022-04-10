@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thanhdanhhello
-- 👀 I’m interested in IT + Techology or Fake Programs
+- 👀 I’m interested in IT + Techology and Fake Programs
 - 🌱 I’m currently learning an IT Class at Vietnam
 - 💞️ I’m looking to collaborate on people who interested in Fake Programs
 - 📫 How to reach me:
