@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @thanhdanhhello
-- 👀 I’m interested in IT + Techology and Fake Programs
-- 🌱 I’m currently learning an IT Class at Vietnam
-- 💞️ I’m looking to collaborate on people who interested in Fake Programs
+- 👀 I’m interested in IT + Techology and Crab Game Modding (tho idk how to code)
+- 💞️ I’m looking to collaborate on people who interested in Crab Game Server Mods(Modding)
 - 📫 How to reach me:
-   + Discord: thanhdanhhello#4679
+   + Discord: thanhdanhelo#5232
 
 <!---
 thanhdanhhello/thanhdanhhello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
